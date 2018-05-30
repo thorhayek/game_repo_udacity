@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 3884eab839af1e82c44267484cf2945a766081f3 thorhayek <vishay.vanjani@gmail.com> 1455588971 -0800	clone: from https://github.com/udacity/asteroids.git
+3884eab839af1e82c44267484cf2945a766081f3 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456120084 -0800	commit: bug:fix bullet bug by introducing delay
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 64f439b8f348e007fe00849cd66768f1d6c20474 thorhayek <vishay.vanjani@gmail.com> 1456900075 -0800	commit: Revert "bug:fix bullet bug by introducing delay"
+64f439b8f348e007fe00849cd66768f1d6c20474 1d2a0d9d7d446eeb691af6d94be4401946b92f05 thorhayek <vishay.vanjani@gmail.com> 1456900655 -0800	commit (merge): Merge branch 'coins' after resolving manually resolving conflicts . Note reverting changes using git revert to get rid of dealy bug fix did not help.
+1d2a0d9d7d446eeb691af6d94be4401946b92f05 2959b682384a85f5b499ea8a383753a803a814b2 thorhayek <vishay.vanjani@gmail.com> 1456902091 -0800	commit: make coins solid and yellow
+2959b682384a85f5b499ea8a383753a803a814b2 8250c2de523ff91fb44145727e4669f02ae96172 thorhayek <vishay.vanjani@gmail.com> 1456902580 -0800	commit: fix add color to coin by adding color in Coin class/module instead of coin object

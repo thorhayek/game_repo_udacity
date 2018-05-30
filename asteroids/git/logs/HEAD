@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 3884eab839af1e82c44267484cf2945a766081f3 thorhayek <vishay.vanjani@gmail.com> 1455588971 -0800	clone: from https://github.com/udacity/asteroids.git
+3884eab839af1e82c44267484cf2945a766081f3 f19cb1b80fe27e938e4d72770ca0a42f25e99ecc thorhayek <vishay.vanjani@gmail.com> 1455593215 -0800	checkout: moving from master to f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+f19cb1b80fe27e938e4d72770ca0a42f25e99ecc 75928a98e18479b22b18888a33d36379f17b43c1 thorhayek <vishay.vanjani@gmail.com> 1455593466 -0800	checkout: moving from f19cb1b80fe27e938e4d72770ca0a42f25e99ecc to 75928a98e18479b22b18888a33d36379f17b43c1
+75928a98e18479b22b18888a33d36379f17b43c1 3884eab839af1e82c44267484cf2945a766081f3 thorhayek <vishay.vanjani@gmail.com> 1455593576 -0800	checkout: moving from 75928a98e18479b22b18888a33d36379f17b43c1 to 3884eab839af1e82c44267484cf2945a766081f3
+3884eab839af1e82c44267484cf2945a766081f3 3e42136a76cf78c6c421cd720427bf6337c2d623 thorhayek <vishay.vanjani@gmail.com> 1455593624 -0800	checkout: moving from 3884eab839af1e82c44267484cf2945a766081f3 to 3e42136a76cf78c6c421cd720427bf6337c2d623
+3e42136a76cf78c6c421cd720427bf6337c2d623 4035769377cce96a88d5c1167079e12f30492391 thorhayek <vishay.vanjani@gmail.com> 1455593697 -0800	checkout: moving from 3e42136a76cf78c6c421cd720427bf6337c2d623 to 4035769377cce96a88d5c1167079e12f30492391
+4035769377cce96a88d5c1167079e12f30492391 25ede836903881848fea811df5b687b59d962da3 thorhayek <vishay.vanjani@gmail.com> 1455593776 -0800	checkout: moving from 4035769377cce96a88d5c1167079e12f30492391 to 25ede836903881848fea811df5b687b59d962da3
+25ede836903881848fea811df5b687b59d962da3 df035382c41b4d0cda86a1aa30b53f15bef05b53 thorhayek <vishay.vanjani@gmail.com> 1455593850 -0800	checkout: moving from 25ede836903881848fea811df5b687b59d962da3 to df035382c41b4d0cda86a1aa30b53f15bef05b53
+df035382c41b4d0cda86a1aa30b53f15bef05b53 3884eab839af1e82c44267484cf2945a766081f3 thorhayek <vishay.vanjani@gmail.com> 1455593921 -0800	checkout: moving from df035382c41b4d0cda86a1aa30b53f15bef05b53 to 3884eab839af1e82c44267484cf2945a766081f3
+3884eab839af1e82c44267484cf2945a766081f3 3884eab839af1e82c44267484cf2945a766081f3 thorhayek <vishay.vanjani@gmail.com> 1456118413 -0800	checkout: moving from 3884eab839af1e82c44267484cf2945a766081f3 to master
+3884eab839af1e82c44267484cf2945a766081f3 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456120084 -0800	commit: bug:fix bullet bug by introducing delay
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456157628 -0800	checkout: moving from master to easy-mode
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 f4a811106452e59f6bfad66f6c9bf121d248508f thorhayek <vishay.vanjani@gmail.com> 1456157743 -0800	commit: make the asteroids split into 2
+f4a811106452e59f6bfad66f6c9bf121d248508f 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456376530 -0800	checkout: moving from easy-mode to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 354dfdd530b1631a2834b2e9e242d31e625c9c13 thorhayek <vishay.vanjani@gmail.com> 1456376639 -0800	checkout: moving from master to coins
+354dfdd530b1631a2834b2e9e242d31e625c9c13 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456376663 -0800	checkout: moving from coins to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456377499 -0800	checkout: moving from master to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 f4a811106452e59f6bfad66f6c9bf121d248508f thorhayek <vishay.vanjani@gmail.com> 1456377507 -0800	checkout: moving from master to easy-mode
+f4a811106452e59f6bfad66f6c9bf121d248508f 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456377521 -0800	checkout: moving from easy-mode to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 f4a811106452e59f6bfad66f6c9bf121d248508f thorhayek <vishay.vanjani@gmail.com> 1456849583 -0800	checkout: moving from master to easy-mode
+f4a811106452e59f6bfad66f6c9bf121d248508f 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456849617 -0800	checkout: moving from easy-mode to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456850349 -0800	checkout: moving from master to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 354dfdd530b1631a2834b2e9e242d31e625c9c13 thorhayek <vishay.vanjani@gmail.com> 1456850571 -0800	checkout: moving from master to coins
+354dfdd530b1631a2834b2e9e242d31e625c9c13 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456850595 -0800	checkout: moving from coins to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456850754 -0800	checkout: moving from master to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 354dfdd530b1631a2834b2e9e242d31e625c9c13 thorhayek <vishay.vanjani@gmail.com> 1456850973 -0800	checkout: moving from master to coins
+354dfdd530b1631a2834b2e9e242d31e625c9c13 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456851076 -0800	checkout: moving from coins to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456894760 -0800	checkout: moving from master to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 3884eab839af1e82c44267484cf2945a766081f3 thorhayek <vishay.vanjani@gmail.com> 1456898857 -0800	checkout: moving from master to 3884eab839af1e82c44267484cf2945a766081f3
+3884eab839af1e82c44267484cf2945a766081f3 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456898868 -0800	checkout: moving from 3884eab839af1e82c44267484cf2945a766081f3 to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 f4a811106452e59f6bfad66f6c9bf121d248508f thorhayek <vishay.vanjani@gmail.com> 1456898900 -0800	checkout: moving from master to easy-mode
+f4a811106452e59f6bfad66f6c9bf121d248508f 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456898925 -0800	checkout: moving from easy-mode to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 354dfdd530b1631a2834b2e9e242d31e625c9c13 thorhayek <vishay.vanjani@gmail.com> 1456899212 -0800	checkout: moving from master to coins
+354dfdd530b1631a2834b2e9e242d31e625c9c13 8dc66d5e021f9eab101b5cd178c4e436e6af87d0 thorhayek <vishay.vanjani@gmail.com> 1456899235 -0800	checkout: moving from coins to master
+8dc66d5e021f9eab101b5cd178c4e436e6af87d0 64f439b8f348e007fe00849cd66768f1d6c20474 thorhayek <vishay.vanjani@gmail.com> 1456900075 -0800	commit: Revert "bug:fix bullet bug by introducing delay"
+64f439b8f348e007fe00849cd66768f1d6c20474 64f439b8f348e007fe00849cd66768f1d6c20474 thorhayek <vishay.vanjani@gmail.com> 1456900126 -0800	checkout: moving from master to master
+64f439b8f348e007fe00849cd66768f1d6c20474 1d2a0d9d7d446eeb691af6d94be4401946b92f05 thorhayek <vishay.vanjani@gmail.com> 1456900655 -0800	commit (merge): Merge branch 'coins' after resolving manually resolving conflicts . Note reverting changes using git revert to get rid of dealy bug fix did not help.
+1d2a0d9d7d446eeb691af6d94be4401946b92f05 2959b682384a85f5b499ea8a383753a803a814b2 thorhayek <vishay.vanjani@gmail.com> 1456902091 -0800	commit: make coins solid and yellow
+2959b682384a85f5b499ea8a383753a803a814b2 8250c2de523ff91fb44145727e4669f02ae96172 thorhayek <vishay.vanjani@gmail.com> 1456902580 -0800	commit: fix add color to coin by adding color in Coin class/module instead of coin object
+8250c2de523ff91fb44145727e4669f02ae96172 f4a811106452e59f6bfad66f6c9bf121d248508f thorhayek <vishay.vanjani@gmail.com> 1457327829 -0800	checkout: moving from master to easy-mode
+f4a811106452e59f6bfad66f6c9bf121d248508f bd21825c334621501fd9c1e9c2ffc5e6c4d22333 thorhayek <vishay.vanjani@gmail.com> 1457328584 -0800	commit (merge): Merge branch 'master' into easy-mode
